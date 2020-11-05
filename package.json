@@ -1,0 +1,17 @@
+{
+  "name": "BC-TITO",
+  "version": "2.1.0",
+  "description": "Broadcast For all members",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
